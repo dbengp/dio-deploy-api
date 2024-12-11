@@ -21,4 +21,4 @@ no momento, não possuo subscription válida para implantar em um webapp do Azur
 
 10. Crie um "App Service plan", com o respectivo Pricing Tier.
 
-11. Por fim, slecione Deploy.
+11. Por fim, selecione Deploy.
